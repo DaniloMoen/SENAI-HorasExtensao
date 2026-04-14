@@ -1,2 +1,5 @@
 fastapi~=0.135.3
 sqlalchemy
+uvicorn
+psycopg2-binary
+python-dotenv
